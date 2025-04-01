@@ -6,8 +6,6 @@ Imago is a project initiated by a clinical psychologist with a psychoanalytic ap
 
 ## Planned Features
 - **Dream Logging**: Users can write or record dreams via voice (with automatic transcription).
-  - **Mood Check-In**: Before logging, the app asks “How do you feel now?” (scale 1-10) and “How much do you remember this dream?” (scale 1-10).
-  - **Mood Check-Out**: After logging, a follow-up “How do you feel now?” (scale 1-10).
   - **Dream Context**: Optional input on daily events or sleep quality (e.g., “Stressful day / Restful sleep”).
 - **Monthly Interview**: Upon first use, a brief psychological well-being questionnaire (e.g., anxiety, mood, sleep quality), repeated monthly to track progress.
 - **Custom Tags**: Users can add tags to categorize dreams (e.g., #nightmare, #happiness).
