@@ -49,7 +49,7 @@ I’m a psychologist with no programming skills, but I bring my clinical and psy
 
 If you’re interested:
 1. Open an Issue to suggest ideas or offer collaboration.
-2. Email me at [your-email@gmail.com] to discuss further.
+2. Email me at [marcopetrone94@gmail.com] to discuss further.
 
 ## License
 [MIT License](LICENSE) – The code will be free for use and modification, with attribution.
